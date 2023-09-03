@@ -9,6 +9,7 @@ public class WindowManager {
     private JPanel panel;
     public static final int WIDTH = 800;
     public static final int HEIGHT = 450;
+
     public WindowManager() {
        this.frame = new JFrame("Raider Crawler");
        this.frame.setBounds(70,70,0,0);
